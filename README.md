@@ -1,3 +1,3 @@
 {
-  "url":"http://migame.top/660"
+  "url":"http://nice.quickfun.xyz"
 }
