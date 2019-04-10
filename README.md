@@ -1,3 +1,1 @@
-{
-  "url":"http://nice.quickfun.xyz"
-}
+Configs with GameBox
